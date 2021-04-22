@@ -1,12 +1,12 @@
-# Sport
-Canales sport
+
+
 #EXTM3U
 {
 	 "name": "chukydeport-mix",
     "author": "chuky (Actualizar siempre al entrar)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
-    "telegram": "chukyeldiabolico",
+    "telegram": "chukyeldia
     "url": "https://pastebin.com/X17UNiuN",
     "groups": [{
              "name": "Lista para todo el mundo, enlaces de webs",
